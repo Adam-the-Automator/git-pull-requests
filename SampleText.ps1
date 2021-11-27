@@ -6,3 +6,4 @@ write-Host "added by LB"
 ## riga superiore aggiunta da LB
 Write-Host "Added by RD"
 # Added by RD
+Write-Host "Added by RD via Clone"
