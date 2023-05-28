@@ -6,3 +6,5 @@ write-Host "added by LB"
 ## riga superiore aggiunta da LB
 Write-Host "adding to git pull tutorial"
 ## changes
+Write-Host "added rysho"
+## added above line -rysho
